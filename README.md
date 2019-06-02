@@ -17,7 +17,7 @@ Setup sawyer_robot package:
 ```
 $ cd ~/sawyer_ws/src
 $ wstool init .
-$ git clone https://github.com/RethinkRobotics/sawyer_robot.git
+$ git https://github.com/nav74neet/sawyer_robot.git
 $ wstool merge sawyer_robot/sawyer_robot.rosinstall
 $ wstool update
 ```
